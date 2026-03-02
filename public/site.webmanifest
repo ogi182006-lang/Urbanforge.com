@@ -1,0 +1,17 @@
+{
+  "name": "UrbanForge",
+  "short_name": "UrbanForge",
+  "description": "Delhi streetwear & tech gadgets",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#c300ff",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ]
+}
